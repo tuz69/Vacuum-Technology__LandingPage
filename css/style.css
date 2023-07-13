@@ -1,14 +1,14 @@
 @font-face {
 
     font-family: 'Jost';
-    src: url(../font/Jost-Bold.ttf);
+    src: url(../font/Jost-Bold.woff);
     font-weight: bold;
     font-display: fallback;
 }
 
 @font-face {
     font-family: 'Jost';
-    src: url(../font/Jost-Regular.ttf);
+    src: url(../font/Jost-Regular.woff);
     font-weight: normal;
     font-display: fallback;
 }
@@ -16,7 +16,7 @@
 
 @font-face {
     font-family: 'Caveat';
-    src: url(../font/Caveat-Regular.ttf);
+    src: url(../font/Caveat-Regular.woff);
     font-weight: normal;
     font-display: fallback;
 }
